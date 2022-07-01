@@ -1,6 +1,5 @@
 # compadre_app
-
-A new Flutter project.
+(Implementing few changes)
 
 ## Getting Started
 
