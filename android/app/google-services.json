@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346622746168",
+    "project_id": "compadre-todo",
+    "storage_bucket": "compadre-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346622746168:android:11e77746fab7138304d0cd",
+        "android_client_info": {
+          "package_name": "com.example.compadre_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346622746168-evn1blvp5s84fht0b99f44naifc99k93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQZ9ZE4ZUaVDIMBImER4JZ45JGfZDA-_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346622746168-evn1blvp5s84fht0b99f44naifc99k93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
